@@ -1,0 +1,2 @@
+For scenario 2, #18, UserA created and added content to featureA.
+Here is said content.
