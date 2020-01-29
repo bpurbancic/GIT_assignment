@@ -1,4 +1,6 @@
 This is the initial contents
 of the second file that comprises
 our most excellent project.
+Hopefully this works...
+Insertion from UserA
 Simultaneous insertion from UserB
