@@ -1,6 +1,4 @@
-Now for Scenario 2, #18 UserA is modifying firstFile
-This is a new first line in the file
-This is another new line in the file because I'm doing this the second time.
+New first line added by UserA
 Matt is adding nifty new content!
 This is the initial contents
 of the first file that
